@@ -1,0 +1,46 @@
+/* CSS Document */
+p {
+	color: white;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "Serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightgray;
+	padding: 20px;
+}
+.paragraf_2 {color: white; background-color: rgba(192, 192, 192, 0.5)}
+.novi_blok {
+	background-color: rgba(192, 192, 192, 0.5);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+.drugi_blok {
+	background-color: violet;
+	padding:20px;
+}
+h1, h2, h3 {
+	font-family: Ghotam, "Helvetica Neue", Helvetica, Arial, "Sans-serif";
+	color: white;
+}
+
+span {color: black;}
+.pozadina{
+	background-image:url("slike/03.jpg")
+}
+.drugapozadina {
+	background-color: purple;
+}
+a:link {
+	color: black;
+	background-color: lightgray;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px lightgray;
+}
+a:hover {
+	background-color: darkgray;
+}
+img {
+	height: 400px;
+}
